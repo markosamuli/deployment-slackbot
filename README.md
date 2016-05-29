@@ -39,6 +39,8 @@ PLUGINS = [
 ]
 ```
 
+_[Ukko](https://en.wikipedia.org/wiki/Ukko) is is the god of the sky in Finnish mythology. Use any name you want for your bot when configuring it._
+
 ### Deployment
 
 The `ukko.plugins.deployment` plugin expects the following configuration to work.
